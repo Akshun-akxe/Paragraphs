@@ -1,0 +1,4 @@
+function getParagraph1()
+{
+    
+}
